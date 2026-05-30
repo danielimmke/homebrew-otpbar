@@ -1,6 +1,6 @@
 cask "otpbar" do
-  version "1.2.0"
-  sha256 "e10498aa2ebd9029e3bc2e5ccee51dbd9710949153f24b97707b39bbad785ce6"
+  version "1.2.1"
+  sha256 "7f29e93c931a4627c5d1914e0b732539acefcf8202f02a54cbb631840c99d9b3"
 
   url "https://github.com/danielimmke/OTPBar/releases/download/v#{version}/OTPBar.zip"
   name "OTPBar"
